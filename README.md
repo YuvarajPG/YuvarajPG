@@ -6,7 +6,7 @@ web developer
 
 * 🌍  I'm based in Salem, Tamil Nadu, India
 * 🖥️  See my portfolio at [My Portfolio](https://yuvaraj-porfolio.vercel.app/)
-* ✉️  You can contact me at  [yvuarajpg@gmail.com](mailto:yvuarajpg@gmail.com)
+* ✉️  You can contact me at  [yvuarajpg@gmail.com](mailto:yvuarajpg@gmail.com) <br/>
 personal mail : [yuvar2978@gmail.com](mailto:yuvar2978@gmail.com)
 
 <p align="left">
