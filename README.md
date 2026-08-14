@@ -5,12 +5,16 @@
 ```text
 $ whoami
 > Yuvaraj PG — ECE student & developer
+
 $ stack --core
 > TypeScript · JavaScript · React · Next.js · Tailwind CSS
+
 $ build --focus
 > Android tooling · Electron · developer utilities
+
 $ learning --now
-> TypeScript · React · Next.js · Django · Python
+> TypeScript · React · Next.js
+
 $ open-to
 > Software Engineering · Full-Stack · Android/Desktop Tooling
 ```
@@ -25,13 +29,13 @@ $ open-to
 
 ## `$ cat about.md`
 
-I'm an **ECE undergraduate and hands-on developer** from Salem, Tamil Nadu, building practical web applications, desktop utilities, and Android-focused tooling. I enjoy moving between UI engineering and lower-level device workflows, with a growing focus on TypeScript, React, Next.js, Django, Python, and developer tooling.
+I'm an **ECE undergraduate and hands-on developer** from Salem, Tamil Nadu, building practical web applications, desktop utilities, and Android-focused tooling. I enjoy working across UI engineering, desktop applications, Android workflows, and developer tooling with a TypeScript-first approach.
 
 ```bash
 ROLE="ECE Student / Software Developer"
 EXP="Student / project-based development"
 DOMAIN="Web Development · Desktop Apps · Android Tooling"
-STACK="TypeScript · JavaScript · React · Next.js · Tailwind CSS · Python · Django · Electron"
+STACK="TypeScript · JavaScript · React · Next.js · Tailwind CSS · Electron"
 OPEN_TO="Software Engineering · Full-Stack · Android/Desktop Tooling"
 ```
 
@@ -39,15 +43,15 @@ OPEN_TO="Software Engineering · Full-Stack · Android/Desktop Tooling"
 
 **Languages**
 
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Frontend**
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
 
-**Backend / Desktop / Tooling**
+**Desktop / Tooling**
 
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ## `$ ./specialties.sh`
 
@@ -57,19 +61,19 @@ OPEN_TO="Software Engineering · Full-Stack · Android/Desktop Tooling"
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| TypeScript / JavaScript | Strong | Daily practice, application development and tooling |
-| React / Next.js | Strong | Portfolio and modern web application development |
+| TypeScript / JavaScript | Strong | Application development and tooling |
+| React / Next.js | Strong | Modern web application development |
 | Tailwind CSS | Strong | Responsive UI and component styling |
-| Python / Django | Developing | Backend learning and full-stack development |
 | Electron / Desktop | Developing | Cross-platform Android management tooling |
 | Android / ADB | Developing | Device workflows, debugging and automation |
+| Git / GitHub | Strong | Version control and open-source workflows |
 
 ## `$ find featured-projects -maxdepth 1`
 
 <details open>
 <summary><b>Android Control Center</b></summary>
 
-A cross-platform desktop application for managing Android devices, built around a modern React/Electron interface and device tooling workflows.
+A cross-platform desktop application for managing Android devices, built around a React/Electron interface and device tooling workflows.
 
 | Stack | Scale | Impact |
 |---|---|---|
@@ -81,7 +85,7 @@ A cross-platform desktop application for managing Android devices, built around 
 <details>
 <summary><b>Portfolio</b></summary>
 
-A personal developer portfolio showcasing projects, skills and work-in-progress development.
+A personal developer portfolio showcasing projects, skills and development work.
 
 | Stack | Scale | Impact |
 |---|---|---|
@@ -93,11 +97,11 @@ A personal developer portfolio showcasing projects, skills and work-in-progress 
 <details>
 <summary><b>Metrolist</b></summary>
 
-An Android music application project that I have built and worked with locally, including debugging, APK builds and Android development workflows.
+An Android music application project used for Android development, debugging and APK build workflows.
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Kotlin / Android | Public repository | Android application development and build/debug practice |
+| Kotlin / Android | Public repository | Android application development practice |
 
 [Repository](https://github.com/YuvarajPG/Metrolist)
 </details>
@@ -109,7 +113,7 @@ A practical inventory-management project maintained as a public repository.
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Web application | Public project | Business workflow / inventory practice |
+| Web application | Public project | Inventory workflow practice |
 
 [Repository](https://github.com/YuvarajPG/Inventory-Managent-System)
 </details>
@@ -117,7 +121,7 @@ A practical inventory-management project maintained as a public repository.
 <details>
 <summary><b>ToDo / Task Projects</b></summary>
 
-A collection of task-management projects used to practice JavaScript, React and application development fundamentals.
+A collection of task-management projects used to practice JavaScript, React and application development.
 
 | Stack | Scale | Impact |
 |---|---|---|
@@ -132,9 +136,9 @@ A collection of task-management projects used to practice JavaScript, React and 
 
 - Building practical web, desktop and Android-focused software projects.
 - Developing a stronger TypeScript-first workflow for modern application development.
-- Exploring Electron and Android device tooling through the Android Control Center project.
+- Exploring Electron and Android device tooling through Android Control Center.
 - Maintaining a public portfolio and selected open-source repositories.
-- Learning backend development with Django alongside frontend engineering.
+- Practicing software engineering through real projects and iterative builds.
 
 `TypeScript` `React` `Next.js` `Tailwind CSS` `Electron` `Android` `Git`
 
@@ -216,8 +220,6 @@ learning:
   - TypeScript
   - React
   - Next.js
-  - Django
-  - Python
 
 building:
   - Android Control Center
