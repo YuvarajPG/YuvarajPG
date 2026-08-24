@@ -19,7 +19,7 @@ $ open-to
 > Software Engineering · Full-Stack · Android/Desktop Tooling
 ```
 
-[![B.E. ECE](https://img.shields.io/badge/B.E.%20ECE-00E5FF?style=flat-square&labelColor=0B0F10&color=00E5FF)](https://www.avsecc.ac.in/) [![AVS Engineering College](https://img.shields.io/badge/AVS%20Engineering%20College-00E5FF?style=flat-square&labelColor=0B0F10&color=00E5FF)](https://www.avsecc.ac.in/) [![Salem%2C%20Tamil%20Nadu](https://img.shields.io/badge/Salem%2C%20Tamil%20Nadu-00E5FF?style=flat-square&labelColor=0B0F10&color=00E5FF)](https://www.google.com/maps/search/Salem%2C%20Tamil%20Nadu)
+[![B.E. ECE](https://img.shields.io/badge/B.E.%20ECE-00E5FF?style=labelColor=0B0F10&color=00E5FF)](https://www.avsecc.ac.in/) [![AVS Engineering College](https://img.shields.io/badge/AVS%20Engineering%20College-00E5FF?style=labelColor=0B0F10&color=00E5FF)](https://www.avsecc.ac.in/) [![Salem%2C%20Tamil%20Nadu](https://img.shields.io/badge/Salem%2C%20Tamil%20Nadu-00E5FF?style=labelColor=0B0F10&color=00E5FF)](https://www.google.com/maps/search/Salem%2C%20Tamil%20Nadu)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&labelColor=0B0F10&logo=vercel&logoColor=00E5FF)](https://yuvaraj-porfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&labelColor=0B0F10&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/yuvarajpg) [![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&labelColor=0B0F10&logo=gmail&logoColor=00E5FF)](mailto:yvuarajpg@gmail.com) [![GitHub](https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&labelColor=0B0F10&logo=github&logoColor=00E5FF)](https://github.com/YuvarajPG)
 
@@ -43,15 +43,15 @@ OPEN_TO="Software Engineering · Full-Stack · Android/Desktop Tooling"
 
 **Languages**
 
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 
 **Frontend**
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Desktop / Tooling**
 
-[![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/) 
 
 ## `$ ./specialties.sh`
 
